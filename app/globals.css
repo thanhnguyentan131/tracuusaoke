@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul span {
+    min-width: 3em;
+    background-color: black;
+    color: white;
+}
+
+li {
+    min-width: 3em;
+}
